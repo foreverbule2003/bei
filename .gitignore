@@ -1,0 +1,6 @@
+/data/*.json
+/data/regions/*.json
+/node_modules
+*.csv
+package-lock.json
+yarn.lock
